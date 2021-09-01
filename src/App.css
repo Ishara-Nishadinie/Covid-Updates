@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+h2{
+  color: darkkhaki;
+}
+
+.bttnDanger{
+  background-color:crimson;
+  color:white;
+  width: 80%;
+  height: 70%;
+  margin: 5%;
+  padding: 10px;
+  border:none;
+}
+
+.bttnPrimary{
+  width: 85%;
+  height: 70%;
+  margin: 5%;
+  padding: 5px;
+}
+ 
